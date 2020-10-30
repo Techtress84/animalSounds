@@ -1,0 +1,30 @@
+body {
+    background: #ff00cc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h1{
+    background-color: white;
+    border: 8px solid yellow;
+    color: blue;
+    font-size: 80px;
+    text-align:center;
+}
+.btn{
+    border: 10px solid blue;
+    border-radius: 25%;
+    color: purple;
+    font-size: 18px;
+    font-weight: Bold;
+    height: 200px;
+    margin-bottom: 5%;
+    margin-right: 2%;
+    text-align: center;
+    width: 200px;
+}
+.buttons{
+    margin-left: 10%;
+    margin-top: 7%;
+    position: relative;
+}
